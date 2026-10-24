@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="TelaPrincipalBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Telas\Cadastro\Tela_CadastroCategoria.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\Cadastro\Tela_CadastroLivro.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\Cadastro\Tela_Pesquisa.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Telas\Operacional\Tela_Emprestimo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
